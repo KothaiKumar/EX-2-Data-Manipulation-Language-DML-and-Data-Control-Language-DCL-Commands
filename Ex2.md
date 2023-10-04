@@ -191,3 +191,6 @@ select avg(salary) from manager;
 ### OUTPUT:
 
 ![image](https://github.com/Nethraa24/EX-2-Data-Manipulation-Language-DML-and-Data-Control-Language-DCL-Commands/assets/121215786/0c2e5384-eaf1-482f-bce4-dc27894e6391)
+
+## Result: 
+Thus , a manager database is created and DML queries are executed successfully.
